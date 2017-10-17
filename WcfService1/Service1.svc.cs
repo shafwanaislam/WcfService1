@@ -27,6 +27,8 @@ namespace WcfService1
             {
                 composite.StringValue += "Suffix";
             }
+
+
             return composite;
         }
     }
